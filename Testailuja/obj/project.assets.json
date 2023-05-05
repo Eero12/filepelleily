@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ojaeer\\source\\repos\\Testailuja\\Testailuja\\Testailuja.csproj",
+      "projectUniqueName": "C:\\Users\\ojaeer\\Documents\\GitHub\\filepelleily\\Testailuja\\Testailuja.csproj",
       "projectName": "Testailuja",
-      "projectPath": "C:\\Users\\ojaeer\\source\\repos\\Testailuja\\Testailuja\\Testailuja.csproj",
+      "projectPath": "C:\\Users\\ojaeer\\Documents\\GitHub\\filepelleily\\Testailuja\\Testailuja.csproj",
       "packagesPath": "C:\\Users\\ojaeer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ojaeer\\source\\repos\\Testailuja\\Testailuja\\obj\\",
+      "outputPath": "C:\\Users\\ojaeer\\Documents\\GitHub\\filepelleily\\Testailuja\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ojaeer\\AppData\\Roaming\\NuGet\\NuGet.Config",
