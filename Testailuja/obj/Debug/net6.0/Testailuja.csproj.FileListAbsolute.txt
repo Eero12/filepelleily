@@ -1,0 +1,15 @@
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\bin\Debug\net6.0\Testailuja.exe
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\bin\Debug\net6.0\Testailuja.deps.json
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\bin\Debug\net6.0\Testailuja.runtimeconfig.json
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\bin\Debug\net6.0\Testailuja.dll
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\bin\Debug\net6.0\Testailuja.pdb
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.csproj.AssemblyReference.cache
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.AssemblyInfoInputs.cache
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.AssemblyInfo.cs
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.csproj.CoreCompileInputs.cache
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.dll
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\refint\Testailuja.dll
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.pdb
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\Testailuja.genruntimeconfig.cache
+C:\Users\ojaeer\source\repos\Testailuja\Testailuja\obj\Debug\net6.0\ref\Testailuja.dll
